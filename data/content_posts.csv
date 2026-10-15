@@ -1,0 +1,121 @@
+post_id,date,topic,format,hook,followers,reach,likes,shares,saves,comments,retention_rate,hashtags
+P001,2026-07-01,Student Stress,Short Video,Quick Tip,6506,4874,105,84,34,9,0.29,#studentstress #studentlife
+P002,2026-07-03,Student Stress,Short Video,Personal Story,8639,7330,61,65,53,34,0.68,#studentstress #studentlife
+P003,2026-07-05,Student Stress,Short Video,Relatable Scenario,7287,4081,111,29,82,10,0.34,#studentstress #studentlife
+P004,2026-07-07,Friendship,Text Post,Quick Tip,11111,1453,216,34,23,31,0.4,#friendship #studentlife
+P005,2026-07-09,Self-Care,Carousel,Personal Story,10271,3366,53,56,44,22,0.73,#self-care #studentlife
+P006,2026-07-11,Student Stress,Carousel,Quick Tip,8214,6668,168,21,78,30,0.38,#studentstress #studentlife
+P007,2026-07-13,Student Stress,Text Post,Personal Story,8875,5936,98,16,74,32,0.77,#studentstress #studentlife
+P008,2026-07-15,Self-Care,Short Video,Quick Tip,11404,12067,305,11,50,5,0.55,#self-care #studentlife
+P009,2026-07-17,Student Stress,Short Video,Quick Tip,6241,8026,243,48,107,14,0.44,#studentstress #studentlife
+P010,2026-07-19,Self-Care,Text Post,Quick Tip,10619,4875,128,39,55,27,0.81,#self-care #studentlife
+P011,2026-07-21,Self-Care,Carousel,Question,10691,2591,72,16,33,31,0.45,#self-care #studentlife
+P012,2026-07-23,Self-Care,Carousel,Quick Tip,9032,11417,42,58,26,21,0.42,#self-care #studentlife
+P013,2026-07-25,Friendship,Carousel,Personal Story,8216,2348,277,67,54,40,0.52,#friendship #studentlife
+P014,2026-07-27,Student Stress,Text Post,Quick Tip,11394,5713,167,47,36,14,0.32,#studentstress #studentlife
+P015,2026-07-29,Self-Care,Short Video,Quick Tip,8502,1914,82,38,64,18,0.89,#self-care #studentlife
+P016,2026-07-31,Student Stress,Short Video,Relatable Scenario,11184,3291,343,63,39,13,0.93,#studentstress #studentlife
+P017,2026-08-02,Social Anxiety,Carousel,Relatable Scenario,6235,6629,313,78,50,27,0.62,#socialanxiety #studentlife
+P018,2026-08-04,Friendship,Carousel,Relatable Scenario,5491,4522,116,11,67,4,0.36,#friendship #studentlife
+P019,2026-08-06,Social Anxiety,Short Video,Question,10298,10652,78,33,28,6,0.32,#socialanxiety #studentlife
+P020,2026-08-08,Social Anxiety,Carousel,Relatable Scenario,6255,8080,93,78,104,22,0.7,#socialanxiety #studentlife
+P021,2026-08-10,Social Anxiety,Short Video,Question,9898,8163,195,56,105,40,0.31,#socialanxiety #studentlife
+P022,2026-08-12,Student Stress,Short Video,Relatable Scenario,10465,4891,358,17,63,18,0.58,#studentstress #studentlife
+P023,2026-08-14,Relationships,Short Video,Quick Tip,8289,5329,74,47,28,6,0.65,#relationships #studentlife
+P024,2026-08-16,Student Stress,Short Video,Personal Story,5862,7990,238,56,56,33,0.39,#studentstress #studentlife
+P025,2026-08-18,Student Stress,Carousel,Quick Tip,10923,7561,199,32,88,40,0.4,#studentstress #studentlife
+P026,2026-08-20,Student Stress,Text Post,Question,10627,4663,49,8,76,42,0.54,#studentstress #studentlife
+P027,2026-08-22,Student Stress,Text Post,Question,11474,2744,53,47,17,21,0.78,#studentstress #studentlife
+P028,2026-08-24,Self-Care,Short Video,Question,9573,3904,186,64,101,24,0.41,#self-care #studentlife
+P029,2026-08-26,Friendship,Short Video,Quick Tip,7742,3316,296,69,69,36,0.8,#friendship #studentlife
+P030,2026-08-28,Student Stress,Short Video,Relatable Scenario,9588,7180,90,14,56,42,0.93,#studentstress #studentlife
+P031,2026-08-30,Student Stress,Short Video,Quick Tip,6834,4318,220,63,74,3,0.66,#studentstress #studentlife
+P032,2026-09-01,Student Stress,Short Video,Quick Tip,5445,3027,337,65,43,24,0.42,#studentstress #studentlife
+P033,2026-09-03,Friendship,Short Video,Quick Tip,8640,8747,142,12,28,34,0.3,#friendship #studentlife
+P034,2026-09-05,Friendship,Short Video,Quick Tip,5823,7985,212,60,92,3,0.93,#friendship #studentlife
+P035,2026-09-07,Social Anxiety,Text Post,Question,11337,3362,195,47,30,37,0.41,#socialanxiety #studentlife
+P036,2026-09-09,Student Stress,Carousel,Personal Story,10087,5436,270,15,75,34,0.66,#studentstress #studentlife
+P037,2026-09-11,Social Anxiety,Short Video,Personal Story,11720,7708,64,28,87,36,0.88,#socialanxiety #studentlife
+P038,2026-09-13,Social Anxiety,Carousel,Personal Story,10950,7239,85,44,18,41,0.7,#socialanxiety #studentlife
+P039,2026-09-15,Relationships,Carousel,Quick Tip,11221,8864,112,24,13,16,0.39,#relationships #studentlife
+P040,2026-09-17,Student Stress,Carousel,Quick Tip,9755,5344,180,68,71,4,0.79,#studentstress #studentlife
+P041,2026-09-19,Social Anxiety,Text Post,Quick Tip,4813,2261,198,38,61,28,0.8,#socialanxiety #studentlife
+P042,2026-09-21,Student Stress,Carousel,Personal Story,6586,2261,285,45,11,18,0.27,#studentstress #studentlife
+P043,2026-09-23,Friendship,Text Post,Quick Tip,9934,6840,64,52,46,40,0.46,#friendship #studentlife
+P044,2026-09-25,Relationships,Text Post,Quick Tip,9041,2629,78,30,54,15,0.4,#relationships #studentlife
+P045,2026-09-27,Self-Care,Short Video,Quick Tip,6850,4370,190,75,67,33,0.74,#self-care #studentlife
+P046,2026-09-29,Self-Care,Carousel,Personal Story,9897,3292,123,44,60,8,0.66,#self-care #studentlife
+P047,2026-10-01,Friendship,Short Video,Personal Story,5707,2501,66,30,102,8,0.89,#friendship #studentlife
+P048,2026-10-03,Self-Care,Short Video,Relatable Scenario,8549,7470,127,19,11,9,0.42,#self-care #studentlife
+P049,2026-10-05,Self-Care,Carousel,Question,9066,4720,76,41,30,33,0.8,#self-care #studentlife
+P050,2026-10-07,Self-Care,Carousel,Relatable Scenario,9518,11593,252,44,75,32,0.66,#self-care #studentlife
+P051,2026-10-09,Relationships,Carousel,Quick Tip,10658,4605,239,27,93,37,0.39,#relationships #studentlife
+P052,2026-10-11,Student Stress,Text Post,Quick Tip,6420,2849,122,27,19,13,0.45,#studentstress #studentlife
+P053,2026-10-13,Social Anxiety,Text Post,Personal Story,5026,3465,147,30,79,36,0.71,#socialanxiety #studentlife
+P054,2026-10-15,Relationships,Text Post,Question,11518,8702,170,28,67,3,0.4,#relationships #studentlife
+P055,2026-10-17,Relationships,Carousel,Personal Story,8499,3813,125,40,88,4,0.62,#relationships #studentlife
+P056,2026-10-19,Relationships,Text Post,Personal Story,11385,5145,62,43,10,30,0.61,#relationships #studentlife
+P057,2026-10-21,Student Stress,Text Post,Relatable Scenario,5611,7251,156,17,15,22,0.35,#studentstress #studentlife
+P058,2026-10-23,Friendship,Carousel,Relatable Scenario,6779,6660,179,27,23,37,0.54,#friendship #studentlife
+P059,2026-10-25,Friendship,Short Video,Question,10899,7671,64,79,16,20,0.28,#friendship #studentlife
+P060,2026-10-27,Social Anxiety,Short Video,Personal Story,8379,10331,100,71,61,40,0.81,#socialanxiety #studentlife
+P061,2026-10-29,Social Anxiety,Text Post,Question,10871,9121,80,28,24,5,0.56,#socialanxiety #studentlife
+P062,2026-10-31,Relationships,Carousel,Personal Story,5122,8291,255,56,49,9,0.4,#relationships #studentlife
+P063,2026-11-02,Self-Care,Short Video,Question,7344,7922,189,64,75,7,0.51,#self-care #studentlife
+P064,2026-11-04,Relationships,Carousel,Question,8051,4440,238,43,34,33,0.53,#relationships #studentlife
+P065,2026-11-06,Friendship,Text Post,Relatable Scenario,8308,5559,217,42,42,26,0.71,#friendship #studentlife
+P066,2026-11-08,Student Stress,Carousel,Relatable Scenario,6497,6694,201,58,80,28,0.72,#studentstress #studentlife
+P067,2026-11-10,Social Anxiety,Carousel,Personal Story,7406,9679,138,40,66,25,0.53,#socialanxiety #studentlife
+P068,2026-11-12,Social Anxiety,Short Video,Personal Story,10398,7086,250,70,66,41,0.61,#socialanxiety #studentlife
+P069,2026-11-14,Student Stress,Short Video,Quick Tip,6315,6455,318,32,76,31,0.64,#studentstress #studentlife
+P070,2026-11-16,Relationships,Text Post,Quick Tip,7382,5632,141,21,45,20,0.65,#relationships #studentlife
+P071,2026-11-18,Friendship,Short Video,Personal Story,6069,5756,321,52,64,24,0.85,#friendship #studentlife
+P072,2026-11-20,Friendship,Short Video,Quick Tip,5969,4142,54,75,36,23,0.31,#friendship #studentlife
+P073,2026-11-22,Friendship,Text Post,Personal Story,9725,8074,221,36,21,3,0.5,#friendship #studentlife
+P074,2026-11-24,Relationships,Carousel,Personal Story,4920,4341,189,15,20,30,0.56,#relationships #studentlife
+P075,2026-11-26,Student Stress,Short Video,Personal Story,11144,8468,168,16,63,12,0.56,#studentstress #studentlife
+P076,2026-11-28,Self-Care,Text Post,Personal Story,10854,6320,117,30,59,23,0.8,#self-care #studentlife
+P077,2026-11-30,Friendship,Text Post,Question,9494,5984,58,54,34,18,0.27,#friendship #studentlife
+P078,2026-12-02,Social Anxiety,Short Video,Question,5782,1748,217,57,118,26,0.47,#socialanxiety #studentlife
+P079,2026-12-04,Friendship,Text Post,Relatable Scenario,5083,5135,91,21,33,34,0.36,#friendship #studentlife
+P080,2026-12-06,Social Anxiety,Carousel,Personal Story,5084,2495,105,84,72,26,0.5,#socialanxiety #studentlife
+P081,2026-12-08,Friendship,Text Post,Relatable Scenario,6730,5409,169,36,65,9,0.75,#friendship #studentlife
+P082,2026-12-10,Friendship,Text Post,Quick Tip,4711,2310,90,48,10,23,0.67,#friendship #studentlife
+P083,2026-12-12,Social Anxiety,Carousel,Relatable Scenario,6778,3645,253,49,107,10,0.46,#socialanxiety #studentlife
+P084,2026-12-14,Friendship,Text Post,Question,11526,2952,116,31,72,24,0.46,#friendship #studentlife
+P085,2026-12-16,Self-Care,Short Video,Relatable Scenario,5221,6704,129,34,30,29,0.85,#self-care #studentlife
+P086,2026-12-18,Student Stress,Text Post,Relatable Scenario,7885,2086,84,41,59,40,0.67,#studentstress #studentlife
+P087,2026-12-20,Social Anxiety,Carousel,Personal Story,6859,7618,292,55,35,5,0.58,#socialanxiety #studentlife
+P088,2026-12-22,Social Anxiety,Text Post,Personal Story,7045,4686,40,47,71,10,0.72,#socialanxiety #studentlife
+P089,2026-12-24,Student Stress,Carousel,Question,9806,10785,97,51,64,42,0.47,#studentstress #studentlife
+P090,2026-12-26,Relationships,Carousel,Personal Story,8241,8061,87,36,40,38,0.3,#relationships #studentlife
+P091,2026-12-28,Student Stress,Carousel,Relatable Scenario,7284,10432,216,31,11,25,0.71,#studentstress #studentlife
+P092,2026-12-30,Self-Care,Text Post,Relatable Scenario,11588,2392,132,36,64,26,0.67,#self-care #studentlife
+P093,2027-01-01,Relationships,Carousel,Quick Tip,11623,4491,257,25,72,18,0.47,#relationships #studentlife
+P094,2027-01-03,Friendship,Text Post,Relatable Scenario,10277,9195,129,29,27,39,0.3,#friendship #studentlife
+P095,2027-01-05,Self-Care,Carousel,Question,11661,7276,169,13,90,33,0.31,#self-care #studentlife
+P096,2027-01-07,Social Anxiety,Short Video,Relatable Scenario,10902,6048,189,77,101,10,0.87,#socialanxiety #studentlife
+P097,2027-01-09,Self-Care,Carousel,Quick Tip,9634,7433,264,43,14,7,0.63,#self-care #studentlife
+P098,2027-01-11,Friendship,Short Video,Question,8055,2741,329,67,30,35,0.48,#friendship #studentlife
+P099,2027-01-13,Student Stress,Short Video,Quick Tip,11022,2343,165,43,89,36,0.64,#studentstress #studentlife
+P100,2027-01-15,Self-Care,Text Post,Personal Story,5892,2814,49,41,52,18,0.57,#self-care #studentlife
+P101,2027-01-17,Social Anxiety,Carousel,Quick Tip,8264,4805,281,7,103,26,0.32,#socialanxiety #studentlife
+P102,2027-01-19,Relationships,Carousel,Quick Tip,9734,4987,255,26,83,24,0.45,#relationships #studentlife
+P103,2027-01-21,Relationships,Short Video,Personal Story,7624,6177,173,58,64,23,0.85,#relationships #studentlife
+P104,2027-01-23,Relationships,Carousel,Question,9136,11808,254,68,17,37,0.75,#relationships #studentlife
+P105,2027-01-25,Social Anxiety,Text Post,Quick Tip,6294,6532,88,52,47,13,0.75,#socialanxiety #studentlife
+P106,2027-01-27,Student Stress,Carousel,Relatable Scenario,4773,9004,168,72,34,9,0.42,#studentstress #studentlife
+P107,2027-01-29,Relationships,Short Video,Personal Story,5582,12904,237,40,107,38,0.85,#relationships #studentlife
+P108,2027-01-31,Friendship,Carousel,Quick Tip,10615,8127,153,15,88,8,0.79,#friendship #studentlife
+P109,2027-02-02,Relationships,Text Post,Quick Tip,5239,7036,127,4,40,11,0.62,#relationships #studentlife
+P110,2027-02-04,Friendship,Text Post,Relatable Scenario,11237,4563,127,11,37,37,0.74,#friendship #studentlife
+P111,2027-02-06,Self-Care,Carousel,Personal Story,9805,2075,227,41,55,30,0.25,#self-care #studentlife
+P112,2027-02-08,Student Stress,Carousel,Relatable Scenario,5451,2854,125,55,35,32,0.62,#studentstress #studentlife
+P113,2027-02-10,Self-Care,Carousel,Personal Story,11753,7241,233,13,84,30,0.39,#self-care #studentlife
+P114,2027-02-12,Friendship,Short Video,Relatable Scenario,8142,3656,182,16,82,28,0.46,#friendship #studentlife
+P115,2027-02-14,Student Stress,Carousel,Question,9929,4601,262,64,14,7,0.37,#studentstress #studentlife
+P116,2027-02-16,Social Anxiety,Text Post,Personal Story,5062,8748,244,47,40,20,0.36,#socialanxiety #studentlife
+P117,2027-02-18,Social Anxiety,Text Post,Question,6771,6084,76,15,47,17,0.73,#socialanxiety #studentlife
+P118,2027-02-20,Social Anxiety,Short Video,Quick Tip,10971,8731,148,73,85,5,0.31,#socialanxiety #studentlife
+P119,2027-02-22,Relationships,Text Post,Question,10608,2122,145,32,52,38,0.49,#relationships #studentlife
+P120,2027-02-24,Social Anxiety,Text Post,Question,10457,7708,215,45,54,40,0.24,#socialanxiety #studentlife
