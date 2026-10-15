@@ -16,8 +16,6 @@ st.set_page_config(
 
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
-st.write("App folder:", str(ROOT))
-st.write("Data folder contents:", [f.name for f in DATA.glob("*")])
 
 
 
