@@ -33,7 +33,7 @@ The included CSV files are **synthetic demonstration data** created only so the 
    streamlit run app.py
    ```
 
-7. Streamlit prints a local URL, normally `http://localhost:8501`. Open it in your browser.
+7. Streamlit prints a local URL, https://socialengagementinitiative-hsqhk4aobupvgytddmw45w.streamlit.app/. Open it in your browser.
 
 ## Run the NLP script separately
 From the project root:
