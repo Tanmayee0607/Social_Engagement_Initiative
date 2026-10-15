@@ -21,16 +21,9 @@ DATA = ROOT / "data"
 
 @st.cache_data
 def load_data():
-    st.write("Checking CSV files...")
-
     posts = pd.read_csv(DATA / "content_posts.csv", parse_dates=["date"])
     comments = pd.read_csv(DATA / "comments.csv")
     ideas = pd.read_csv(DATA / "content_series.csv")
-
-    st.write("Posts loaded:", posts.shape)
-    st.write("Comments loaded:", comments.shape)
-    st.write("Content series loaded:", ideas.shape)
-
     return posts, comments, ideas
 
 
